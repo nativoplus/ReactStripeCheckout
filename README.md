@@ -14,7 +14,7 @@ This is located here: https://github.com/stripe/react-stripe-elements
 
 ### Stripe.js Reference
 
-This is located here: https://stripe.com/docs/stripe-js/reference
+This is located here: https://stripe.com/docs/stripe-js/reference <br />
 
 ## Other Resources
 
@@ -24,7 +24,7 @@ This is located here: https://stripe.com/docs/currencies
 
 ### How Stripe Handles Currency Conversions
 
-This is located here: https://stripe.com/docs/currencies/conversions
+This is located here: https://stripe.com/docs/currencies/conversions <br />
 
 ## User Interface Preview
 
