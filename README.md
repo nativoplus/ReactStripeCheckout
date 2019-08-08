@@ -30,6 +30,6 @@ This is located here: https://stripe.com/docs/currencies/conversions
 
 Here are some screenshots of the web app:
 
-![Main Page](images/main-page.png)
+![Main Page](src/images/main-page.png)
 
-![Checkout Page](images/checkout-page.png)
+![Checkout Page](src/images/checkout-page.png)
